@@ -12,9 +12,9 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
-gem "devise"
 
-gem "rouge"
+gem "devise"
+gem 'simple_form', '~> 3.0.2'
 
 group :development do
   gem "better_errors"
