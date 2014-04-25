@@ -15,6 +15,7 @@ gem 'jbuilder', '~> 2.0'
 
 gem "devise"
 gem 'simple_form', '~> 3.0.2'
+gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 
 group :development do
   gem "better_errors"
